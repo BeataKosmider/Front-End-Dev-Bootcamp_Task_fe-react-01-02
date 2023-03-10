@@ -1,9 +1,7 @@
-import React from 'react';
+import React from "react";
 
 function TableHead() {
-  return (
-
-  )
+  return <thead></thead>;
 }
 
 export default TableHead;

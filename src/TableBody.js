@@ -1,9 +1,7 @@
-import React from 'react';
+import React from "react";
 
 function TableBody() {
-  return (
-
-  )
+  return <tbody></tbody>;
 }
 
 export default TableBody;

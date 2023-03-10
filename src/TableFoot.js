@@ -1,9 +1,7 @@
-import React from 'react';
+import React from "react";
 
 function TableFoot() {
-  return (
-
-  )
+  return <tfoot></tfoot>;
 }
 
 export default TableFoot;

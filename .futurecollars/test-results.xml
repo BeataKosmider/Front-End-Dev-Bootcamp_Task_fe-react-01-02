@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="5" failures="0" time="0.528">
+  <testsuite name="Table tests" errors="0" failures="0" skipped="0" timestamp="2023-03-10T15:39:38" time="0.514" tests="5">
+    <testcase classname="Table tests" name="Dodano poprawnie komponent Table" time="0.001">
+    </testcase>
+    <testcase classname="Table tests" name="Dodano poprawnie komponent TableHead" time="0.003">
+    </testcase>
+    <testcase classname="Table tests" name="Dodano poprawnie komponent TableBody" time="0.001">
+    </testcase>
+    <testcase classname="Table tests" name="Dodano poprawnie komponent TableFoot" time="0.001">
+    </testcase>
+    <testcase classname="Table tests" name="Wszystkie wewnętrzne komponenty mają w sobie poprawne tagi" time="0.001">
+    </testcase>
+  </testsuite>
+</testsuites>
