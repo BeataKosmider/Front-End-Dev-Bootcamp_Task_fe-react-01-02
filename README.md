@@ -1,3 +1,10 @@
+Stwórz komponenty w ten sposób:
+
+komponent Table (będzie rodzicem trzech poniższych komponentów (musi je zaimportować i wyrenderować))
+komponent TableHead (będzie renderował tylko tag <thead>)
+komponent TableBody (będzie renderował tylko tag <tbody>)
+komponent TableFoot (będzie renderował tylko tag <tfoot>)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
