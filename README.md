@@ -1,3 +1,5 @@
+Task performed during Front-End Developer Bootcamp
+
 Stwórz komponenty w ten sposób:
 
 komponent Table (będzie rodzicem trzech poniższych komponentów (musi je zaimportować i wyrenderować))
